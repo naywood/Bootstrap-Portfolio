@@ -1,0 +1,26 @@
+body {
+  background-image: url("../images/qbkls.jpg");
+  font-family: 'Montserrat', sans-serif; 
+
+}
+
+.container{
+  background: #fce1e3;
+  overflow: auto;
+  border-radius: 10px;
+  margin: 20px;
+  border: 5px solid white;
+
+}
+
+.row{
+  padding: 10px 20px 10px 20px;
+
+}
+
+#footer {
+  bottom: 0;
+  width: 100%;
+  position: absolute;
+  text-align: center;
+}
